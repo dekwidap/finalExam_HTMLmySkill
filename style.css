@@ -11,3 +11,13 @@ body {
     padding: 25px;
     font-weight: 250;
 }
+
+#container h2 {
+    margin: 0;
+}
+
+#container p {
+    font-style: italic;
+    color: gray;
+    margin: 5px 0;
+}
