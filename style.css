@@ -21,3 +21,36 @@ body {
     color: gray;
     margin: 5px 0;
 }
+
+#container ol {
+    margin: 20px 0;
+}
+
+#container ol li {
+    margin: 5px 0;
+    padding: 3px;
+    transition: all 0.5s ease-out;
+}
+
+#container form {
+    display: inline-block;
+}
+
+#container input {
+    padding: 3px 5px;
+}
+
+.button-add {
+    background-color: lightcoral;
+    margin: 10px 2px;
+    border-radius: 16px;
+    padding: 5px 20px;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.button-add:hover {
+    background-color: lightgreen;
+}
